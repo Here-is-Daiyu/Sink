@@ -16,9 +16,9 @@
     "binding": "AI"
   },
   "analytics_engine_datasets": [
-    {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
+    { 
+      "binding": "SINK_DATASET", 
+      "dataset": "sink_dataset" 
     }
   ],
   "kv_namespaces": [
